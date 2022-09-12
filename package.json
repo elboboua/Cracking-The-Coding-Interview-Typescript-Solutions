@@ -1,0 +1,23 @@
+{
+    "name": "cracking-the-coding-interview-typescript-solutions",
+    "version": "1.0.0",
+    "description": "The main goal here is to practice each coding problem in Typescript in two ways:",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/jest": "^29.0.1",
+        "jest": "^29.0.3",
+        "typescript": "^4.8.3"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.19.0",
+        "@babel/preset-env": "^7.19.0",
+        "@babel/preset-typescript": "^7.18.6",
+        "babel-jest": "^29.0.3"
+    }
+}
